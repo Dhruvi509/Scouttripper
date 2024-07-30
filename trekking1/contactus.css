@@ -1,0 +1,44 @@
+.footer
+{
+  height: 250px;
+  background-color: black;
+}
+.footerinfo
+{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  width: 1,050px;
+  height: 270px;
+  padding-left: 160px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-weight: 550;
+  line-height: 34px;
+  letter-spacing: 0.2px;
+  text-align: left;
+  color: #FFFFFF;
+
+
+}
+.footerinfo b
+{
+  font-size: 16px;
+  font-weight: 700;
+}
+.lastfoot
+{
+  width: 100%;
+  height: 74px;
+  text-align: center;
+  font-family: Montserrat;
+  top: 272px;
+  padding: 11px, 410px, 9px, 447px;
+  gap: 40px;
+  background-color: #fafafa;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 32px;
+  letter-spacing: 0.1px;
+  text-align: center;
+
+}
